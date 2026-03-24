@@ -447,7 +447,7 @@ body {
   left: 0;
   right: 0;
   height: 4px;
-  background: linear-gradient(90deg, #c8922a, #e8b040);
+  background: linear-gradient(90deg, #d63e2d, #e8604f);
   border-radius: 26px 26px 0 0;
 }
 
@@ -455,7 +455,7 @@ body {
   margin-top: 0;
   margin-bottom: 0.5rem;
   font-size: 1.25rem;
-  color: var(--text);
+  color: #d63e2d;
 }
 
 .card p {
@@ -489,7 +489,7 @@ body {
 .section-title {
   margin: 0 0 0.6rem;
   font-size: 1.6rem;
-  color: var(--text);
+  color: #d63e2d;
 }
 
 .section-intro {
@@ -504,6 +504,11 @@ body {
   grid-template-columns: minmax(0, 1.3fr) minmax(0, 1.1fr);
   gap: 2.5rem;
   align-items: flex-start;
+}
+
+.section h2,
+.section h3 {
+  color: #d63e2d;
 }
 
 /* ── About ── */
@@ -527,8 +532,8 @@ body {
   justify-content: center;
   padding: 0.15rem 0.6rem;
   border-radius: var(--radius-pill);
-  background: var(--accent-soft);
-  color: var(--accent);
+  background: rgba(214, 62, 45, 0.1);
+  color: #d63e2d;
   font-size: 0.75rem;
   font-weight: 600;
   margin-bottom: 0.4rem;
@@ -558,7 +563,7 @@ body {
 .menu-card h3 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  color: var(--accent);
+  color: #d63e2d;
   font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -589,7 +594,7 @@ body {
 }
 
 .location-info a {
-  color: var(--accent-strong);
+  color: #d63e2d;
   text-decoration: none;
 }
 
@@ -637,7 +642,7 @@ body {
 }
 
 .contact-list a {
-  color: var(--accent-strong);
+  color: #d63e2d;
   text-decoration: none;
 }
 
