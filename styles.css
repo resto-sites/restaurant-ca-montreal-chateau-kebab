@@ -700,18 +700,33 @@ body {
     transform: translateX(-50%);
   }
 
+  .brand-logo {
+    height: 48px;
+  }
+
   .hero-inner,
   .two-column {
     grid-template-columns: minmax(0, 1fr);
   }
 
   .hero {
-    padding-top: 3.2rem;
-    min-height: 500px;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+    min-height: unset;
+    align-items: flex-start;
   }
 
-  .card {
-    margin-top: 1.3rem;
+  .hero-inner {
+    padding-top: 1.5rem;
+    padding-bottom: 3rem;
+  }
+
+  .hero-highlight {
+    display: none;
+  }
+
+  .slider-btn {
+    display: none;
   }
 
   .slider-btn {
