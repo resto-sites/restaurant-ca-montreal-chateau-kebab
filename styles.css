@@ -210,6 +210,14 @@ body {
   text-align: center;
 }
 
+.mobile-nav-lang {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border-soft);
+}
+
 /* ── Hero ── */
 .hero {
   position: relative;
@@ -688,6 +696,10 @@ body {
   }
 
   .nav-order-btn {
+    display: none;
+  }
+
+  .lang-switch {
     display: none;
   }
 

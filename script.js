@@ -1,8 +1,8 @@
-// Trilingual (EN / FR / AR) translation system for Château Kabab West Island
+// Trilingual (EN / FR / AR) translation system for Château Kabab Downtown
 
 const translations = {
   en: {
-    brandName: "Château Kabab West Island",
+    brandName: "Château Kabab Downtown",
     brandTagline: "Persian & Iraqi Cuisine · Montreal",
     navHome: "Home",
     navAbout: "About",
@@ -11,11 +11,11 @@ const translations = {
     navContact: "Contact",
     heroTitle: "Authentic Persian & Iraqi Cuisine in Montreal.",
     heroSubtitle:
-      "From Kebab Koobideh and Baghali Polo to fresh Shawarma and Shish Taouk – crafted daily with halal ingredients in Pierrefonds.",
+      "From Kebab Koobideh and Baghali Polo to fresh Shawarma and Shish Taouk – crafted daily with halal ingredients in Downtown Montreal.",
     navOrderOnline: "Order Online",
     heroOrderOnline: "Order Online",
     heroSeeMenu: "See our menu",
-    heroCallUs: "Call Us: (514) 421-3666",
+    heroCallUs: "Call Us: (514) 932-1114",
     heroHours: "Open 7 days a week",
     heroService: "Dine‑in · Takeout · Delivery · Catering",
     highlightTitle: "Signature Kebab Koobideh",
@@ -24,13 +24,13 @@ const translations = {
     highlightPoint1: "100% Halal certified",
     highlightPoint2: "Served with saffron rice & grilled tomato",
     highlightPoint3: "Dine-in, takeout & catering available",
-    aboutTitle: "About Château Kabab West Island",
+    aboutTitle: "About Château Kabab Downtown",
     aboutText1:
-      "Château Kabab West Island is a family restaurant in Pierrefonds, Montreal, specializing in authentic Persian and Iraqi cuisine. We bring the rich flavors of the Middle East to your table using traditional recipes and the finest halal ingredients.",
+      "Château Kabab Downtown is a family restaurant on Rue Guy in Downtown Montreal, specializing in authentic Persian and Iraqi cuisine. We bring the rich flavors of the Middle East to your table using traditional recipes and the finest halal ingredients.",
     aboutText2:
       "From the smoky aroma of Kebab Koobideh on the grill to the fragrant Baghali Polo and our beloved Shawarma and Shish Taouk, every dish is prepared fresh with care and passion.",
     aboutText3:
-      "Whether you are joining us for a family dinner, a weekday lunch special, or ordering catering for your next event, we are proud to serve the Montreal West Island community with consistent quality and warmth.",
+      "Whether you are joining us for a family dinner, a weekday lunch special, or ordering catering for your next event, we are proud to serve the Downtown Montreal community with consistent quality and warmth.",
     aboutCard1Title: "100% Halal",
     aboutCard1Text: "All our meats are halal certified, prepared fresh every day.",
     aboutCard2Title: "Open Flame Grills",
@@ -70,13 +70,13 @@ const translations = {
     menuSeafood2: "Grilled shrimp skewers",
     menuSeafood3: "Seafood mixed plate",
     menuSeafood4: "Ask for seasonal availability",
-    locationTitle: "Find Us in Pierrefonds, Montreal",
+    locationTitle: "Find Us in Downtown Montreal",
     locationText1:
-      "We are conveniently located on Sources Blvd in Pierrefonds, making us easy to reach from across the Montreal West Island area.",
+      "We are conveniently located on Rue Guy in Downtown Montreal, making us easy to reach from across the city.",
     locationText2:
-      "Free parking is available. We welcome walk-ins and reservations alike. Call us or order online for takeout and delivery.",
+      "We welcome walk-ins and reservations alike. Call us or order online for takeout and delivery.",
     locationLabelAddress: "Address:",
-    locationAddress: "4705 Sources Blvd, Pierrefonds, QC H8Y 3C6",
+    locationAddress: "2140 Rue Guy, Montréal, QC H3H 2L8",
     locationLabelPhone: "Phone:",
     locationLabelHours: "Hours:",
     locationHours: "Open 7 days a week",
@@ -86,19 +86,19 @@ const translations = {
       "For reservations, takeout orders, or general enquiries, reach us by phone or follow us on social media.",
     contactPhoneLabel: "Phone:",
     contactAddressLabel: "Address:",
-    contactAddress: "4705 Sources Blvd, Pierrefonds, QC H8Y 3C6",
+    contactAddress: "2140 Rue Guy, Montréal, QC H3H 2L8",
     contactSocialLabel: "Social:",
-    contactSocialText: "Follow us on Facebook & Instagram @chateaukababwestisland",
+    contactSocialText: "Follow us on Facebook & Instagram @chateaukababdowntown",
     contactCateringTitle: "Catering & Events",
     contactCateringText:
       "Planning a corporate lunch, wedding, or family celebration? We offer custom catering packages with live grill stations and full Persian & Iraqi menus. Contact us for a personalized quote.",
     contactCateringBtn: "Call to Book Catering",
-    footerCopyright: "© Château Kabab West Island. All rights reserved.",
+    footerCopyright: "© Château Kabab Downtown. All rights reserved.",
     footerSeo:
-      "Authentic Persian & Iraqi cuisine in Pierrefonds, Montreal – Château Kabab West Island. Halal restaurant on Sources Blvd, West Island.",
+      "Authentic Persian & Iraqi cuisine in Downtown Montreal – Château Kabab Downtown. Halal restaurant on Rue Guy, Montreal.",
   },
   fr: {
-    brandName: "Château Kabab West Island",
+    brandName: "Château Kabab Downtown",
     brandTagline: "Cuisine Persane & Irakienne · Montréal",
     navHome: "Accueil",
     navAbout: "À propos",
@@ -107,11 +107,11 @@ const translations = {
     navContact: "Contact",
     heroTitle: "Cuisine Persane & Irakienne Authentique à Montréal.",
     heroSubtitle:
-      "Du Kebab Koobideh et Baghali Polo au Shawarma et Shish Taouk frais – préparés chaque jour avec des ingrédients halal à Pierrefonds.",
+      "Du Kebab Koobideh et Baghali Polo au Shawarma et Shish Taouk frais – préparés chaque jour avec des ingrédients halal au Centre-Ville de Montréal.",
     navOrderOnline: "Commander en ligne",
     heroOrderOnline: "Commander en ligne",
     heroSeeMenu: "Voir notre menu",
-    heroCallUs: "Appelez-nous : (514) 421-3666",
+    heroCallUs: "Appelez-nous : (514) 932-1114",
     heroHours: "Ouvert 7 jours sur 7",
     heroService: "Sur place · À emporter · Livraison · Traiteur",
     highlightTitle: "Kebab Koobideh Signature",
@@ -120,13 +120,13 @@ const translations = {
     highlightPoint1: "100% certifié Halal",
     highlightPoint2: "Servi avec riz au safran et tomate grillée",
     highlightPoint3: "Sur place, à emporter et traiteur disponibles",
-    aboutTitle: "À propos de Château Kabab West Island",
+    aboutTitle: "À propos de Château Kabab Downtown",
     aboutText1:
-      "Château Kabab West Island est un restaurant familial à Pierrefonds, Montréal, spécialisé dans la cuisine persane et irakienne authentique. Nous apportons les saveurs riches du Moyen-Orient à votre table grâce à des recettes traditionnelles et les meilleurs ingrédients halal.",
+      "Château Kabab Downtown est un restaurant familial sur la rue Guy au Centre-Ville de Montréal, spécialisé dans la cuisine persane et irakienne authentique. Nous apportons les saveurs riches du Moyen-Orient à votre table grâce à des recettes traditionnelles et les meilleurs ingrédients halal.",
     aboutText2:
       "De l'arôme fumé du Kebab Koobideh sur le gril au parfumé Baghali Polo et notre Shawarma et Shish Taouk tant aimés, chaque plat est préparé frais avec soin et passion.",
     aboutText3:
-      "Que vous nous rejoigniez pour un dîner en famille, un spécial du lunch en semaine ou pour commander un service traiteur pour votre prochain événement, nous sommes fiers de servir la communauté du West Island de Montréal avec une qualité et une chaleur constantes.",
+      "Que vous nous rejoigniez pour un dîner en famille, un spécial du lunch en semaine ou pour commander un service traiteur pour votre prochain événement, nous sommes fiers de servir la communauté du Centre-Ville de Montréal avec une qualité et une chaleur constantes.",
     aboutCard1Title: "100% Halal",
     aboutCard1Text: "Toutes nos viandes sont certifiées halal, préparées fraîches chaque jour.",
     aboutCard2Title: "Grillades à la Flamme",
@@ -166,13 +166,13 @@ const translations = {
     menuSeafood2: "Brochettes de crevettes grillées",
     menuSeafood3: "Assiette de fruits de mer mixtes",
     menuSeafood4: "Demandez la disponibilité saisonnière",
-    locationTitle: "Nous Trouver à Pierrefonds, Montréal",
+    locationTitle: "Nous Trouver au Centre-Ville de Montréal",
     locationText1:
-      "Nous sommes idéalement situés sur le boulevard Sources à Pierrefonds, facilement accessible depuis tout le West Island de Montréal.",
+      "Nous sommes idéalement situés sur la rue Guy au Centre-Ville de Montréal, facilement accessible depuis partout dans la ville.",
     locationText2:
-      "Stationnement gratuit disponible. Les entrées sans réservation sont les bienvenues. Appelez-nous ou commandez en ligne pour la commande à emporter et la livraison.",
+      "Les entrées sans réservation sont les bienvenues. Appelez-nous ou commandez en ligne pour la commande à emporter et la livraison.",
     locationLabelAddress: "Adresse :",
-    locationAddress: "4705 boul. Sources, Pierrefonds, QC H8Y 3C6",
+    locationAddress: "2140 rue Guy, Montréal, QC H3H 2L8",
     locationLabelPhone: "Téléphone :",
     locationLabelHours: "Heures :",
     locationHours: "Ouvert 7 jours sur 7",
@@ -182,19 +182,19 @@ const translations = {
       "Pour les réservations, commandes à emporter ou renseignements généraux, rejoignez-nous par téléphone ou suivez-nous sur les réseaux sociaux.",
     contactPhoneLabel: "Téléphone :",
     contactAddressLabel: "Adresse :",
-    contactAddress: "4705 boul. Sources, Pierrefonds, QC H8Y 3C6",
+    contactAddress: "2140 rue Guy, Montréal, QC H3H 2L8",
     contactSocialLabel: "Réseaux sociaux :",
-    contactSocialText: "Suivez-nous sur Facebook & Instagram @chateaukababwestisland",
+    contactSocialText: "Suivez-nous sur Facebook & Instagram @chateaukababdowntown",
     contactCateringTitle: "Traiteur & Événements",
     contactCateringText:
       "Vous planifiez un lunch d'affaires, un mariage ou une célébration familiale? Nous offrons des forfaits traiteur personnalisés avec stations de grillades en direct et menus complets persans & irakiens. Contactez-nous pour un devis.",
     contactCateringBtn: "Appeler pour réserver un traiteur",
-    footerCopyright: "© Château Kabab West Island. Tous droits réservés.",
+    footerCopyright: "© Château Kabab Downtown. Tous droits réservés.",
     footerSeo:
-      "Cuisine persane et irakienne authentique à Pierrefonds, Montréal – Château Kabab West Island. Restaurant halal sur le boulevard Sources, West Island.",
+      "Cuisine persane et irakienne authentique au Centre-Ville de Montréal – Château Kabab Downtown. Restaurant halal sur la rue Guy, Montréal.",
   },
   ar: {
-    brandName: "شاتو كباب ويست آيلاند",
+    brandName: "شاتو كباب داون تاون",
     brandTagline: "مطبخ فارسي وعراقي · مونتريال",
     navHome: "الرئيسية",
     navAbout: "من نحن",
@@ -203,11 +203,11 @@ const translations = {
     navContact: "التواصل",
     heroTitle: "مطبخ فارسي وعراقي أصيل في مونتريال.",
     heroSubtitle:
-      "من كباب كوبيده وباقالي بولو إلى الشاورما الطازجة وشيش الطاووق – يُحضّر يومياً بمكونات حلال في بيرفون.",
+      "من كباب كوبيده وباقالي بولو إلى الشاورما الطازجة وشيش الطاووق – يُحضّر يومياً بمكونات حلال في وسط مونتريال.",
     navOrderOnline: "اطلب الآن",
     heroOrderOnline: "اطلب الآن",
     heroSeeMenu: "شاهد القائمة",
-    heroCallUs: "اتصل بنا: (514) 421-3666",
+    heroCallUs: "اتصل بنا: (514) 932-1114",
     heroHours: "مفتوح 7 أيام في الأسبوع",
     heroService: "صالة طعام · سفري · توصيل · ضيافة",
     highlightTitle: "كباب كوبيده المميز",
@@ -216,13 +216,13 @@ const translations = {
     highlightPoint1: "معتمد 100% حلال",
     highlightPoint2: "يُقدّم مع الأرز بالزعفران والطماطم المشوية",
     highlightPoint3: "صالة طعام، سفري، وخدمة ضيافة متاحة",
-    aboutTitle: "عن شاتو كباب ويست آيلاند",
+    aboutTitle: "عن شاتو كباب داون تاون",
     aboutText1:
-      "شاتو كباب ويست آيلاند مطعم عائلي في بيرفون، مونتريال، متخصص في المطبخ الفارسي والعراقي الأصيل. نُقدّم لكم النكهات الغنية للشرق الأوسط بوصفات تقليدية وأجود المكونات الحلال.",
+      "شاتو كباب داون تاون مطعم عائلي في وسط مونتريال على شارع Guy، متخصص في المطبخ الفارسي والعراقي الأصيل. نُقدّم لكم النكهات الغنية للشرق الأوسط بوصفات تقليدية وأجود المكونات الحلال.",
     aboutText2:
       "من رائحة كباب كوبيده المدخنة على الشواية إلى باقالي بولو العطر وشاورمانا الشهيرة وشيش الطاووق، كل طبق يُحضَّر طازجاً بعناية وشغف.",
     aboutText3:
-      "سواء كنت تزورنا لعشاء عائلي أو غداء خاص في أيام الأسبوع أو لطلب خدمة الضيافة لمناسبتك القادمة، فنحن فخورون بخدمة مجتمع ويست آيلاند في مونتريال بجودة وحرارة مستمرة.",
+      "سواء كنت تزورنا لعشاء عائلي أو غداء خاص في أيام الأسبوع أو لطلب خدمة الضيافة لمناسبتك القادمة، فنحن فخورون بخدمة مجتمع وسط مونتريال بجودة وحرارة مستمرة.",
     aboutCard1Title: "100% حلال",
     aboutCard1Text: "جميع لحومنا معتمدة حلال وتُحضَّر طازجة كل يوم.",
     aboutCard2Title: "شوايات على اللهب",
@@ -262,13 +262,13 @@ const translations = {
     menuSeafood2: "أسياخ جمبري مشوي",
     menuSeafood3: "طبق مأكولات بحرية مشكلة",
     menuSeafood4: "اسأل عن التوفر الموسمي",
-    locationTitle: "جدنا في بيرفون، مونتريال",
+    locationTitle: "جدنا في وسط مونتريال",
     locationText1:
-      "يقع مطعمنا على شارع Sources في بيرفون، مما يجعله سهل الوصول من جميع أنحاء منطقة ويست آيلاند في مونتريال.",
+      "يقع مطعمنا على شارع Guy في وسط مونتريال، مما يجعله سهل الوصول من جميع أنحاء المدينة.",
     locationText2:
-      "تتوفر مواقف سيارات مجانية. نرحب بالزيارات المباشرة والحجوزات على حدٍّ سواء. اتصل بنا أو اطلب عبر الإنترنت للتسليم والتوصيل.",
+      "نرحب بالزيارات المباشرة والحجوزات على حدٍّ سواء. اتصل بنا أو اطلب عبر الإنترنت للتسليم والتوصيل.",
     locationLabelAddress: "العنوان:",
-    locationAddress: "4705 شارع Sources، بيرفون، QC H8Y 3C6",
+    locationAddress: "2140 شارع Guy، مونتريال، QC H3H 2L8",
     locationLabelPhone: "الهاتف:",
     locationLabelHours: "ساعات العمل:",
     locationHours: "مفتوح 7 أيام في الأسبوع",
@@ -278,16 +278,16 @@ const translations = {
       "للحجوزات أو طلبات السفري أو الاستفسارات العامة، تواصل معنا عبر الهاتف أو تابعنا على وسائل التواصل الاجتماعي.",
     contactPhoneLabel: "الهاتف:",
     contactAddressLabel: "العنوان:",
-    contactAddress: "4705 شارع Sources، بيرفون، QC H8Y 3C6",
+    contactAddress: "2140 شارع Guy، مونتريال، QC H3H 2L8",
     contactSocialLabel: "التواصل الاجتماعي:",
-    contactSocialText: "تابعونا على فيسبوك وإنستغرام @chateaukababwestisland",
+    contactSocialText: "تابعونا على فيسبوك وإنستغرام @chateaukababdowntown",
     contactCateringTitle: "الضيافة والفعاليات",
     contactCateringText:
       "تخطط لغداء عمل أو زفاف أو احتفال عائلي؟ نقدم باقات ضيافة مخصصة مع محطات شوي حية وقوائم طعام فارسية وعراقية كاملة. اتصل بنا للحصول على عرض أسعار مخصص.",
     contactCateringBtn: "اتصل لحجز خدمة الضيافة",
-    footerCopyright: "© شاتو كباب ويست آيلاند. جميع الحقوق محفوظة.",
+    footerCopyright: "© شاتو كباب داون تاون. جميع الحقوق محفوظة.",
     footerSeo:
-      "مطبخ فارسي وعراقي أصيل في بيرفون، مونتريال – شاتو كباب ويست آيلاند. مطعم حلال على شارع Sources، ويست آيلاند.",
+      "مطبخ فارسي وعراقي أصيل في وسط مونتريال – شاتو كباب داون تاون. مطعم حلال على شارع Guy، مونتريال.",
   },
 };
 
@@ -307,16 +307,16 @@ function setLanguage(lang) {
   });
 
   const titles = {
-    en: "Château Kabab West Island | Persian & Iraqi Cuisine – Montreal",
-    fr: "Château Kabab West Island | Cuisine Persane & Irakienne – Montréal",
-    ar: "شاتو كباب ويست آيلاند | مطبخ فارسي وعراقي – مونتريال",
+    en: "Château Kabab Downtown | Persian & Iraqi Cuisine – Montreal",
+    fr: "Château Kabab Downtown | Cuisine Persane & Irakienne – Montréal",
+    ar: "شاتو كباب داون تاون | مطبخ فارسي وعراقي – مونتريال",
   };
   document.title = titles[lang] || titles.en;
 
   const descs = {
-    en: "Château Kabab West Island serves authentic Persian and Iraqi cuisine in Pierrefonds, Montreal. Kebab Koobideh, Shawarma, Shish Taouk, halal grills, dine-in, takeout, and delivery.",
-    fr: "Château Kabab West Island sert une cuisine persane et irakienne authentique à Pierrefonds, Montréal. Kebab Koobideh, Shawarma, Shish Taouk, grillades halal, sur place, à emporter et livraison.",
-    ar: "شاتو كباب ويست آيلاند يقدم مطبخاً فارسياً وعراقياً أصيلاً في بيرفون، مونتريال. كباب كوبيده، شاورما، شيش الطاووق، مشويات حلال، صالة طعام، سفري، وتوصيل.",
+    en: "Château Kabab Downtown serves authentic Persian and Iraqi cuisine in Downtown Montreal. Kebab Koobideh, Shawarma, Shish Taouk, halal grills, dine-in, takeout, and delivery.",
+    fr: "Château Kabab Downtown sert une cuisine persane et irakienne authentique au Centre-Ville de Montréal. Kebab Koobideh, Shawarma, Shish Taouk, grillades halal, sur place, à emporter et livraison.",
+    ar: "شاتو كباب داون تاون يقدم مطبخاً فارسياً وعراقياً أصيلاً في وسط مونتريال. كباب كوبيده، شاورما، شيش الطاووق، مشويات حلال، صالة طعام، سفري، وتوصيل.",
   };
   const descMeta = document.querySelector('meta[name="description"]');
   if (descMeta) {
@@ -333,7 +333,12 @@ function setLanguage(lang) {
     .querySelectorAll(".lang-btn")
     .forEach((btn) => btn.classList.toggle("active", btn.dataset.lang === lang));
 
-  localStorage.setItem("chateau_kabab_lang", lang);
+  // keep mobile lang buttons in sync
+  document
+    .querySelectorAll(".mobile-nav-lang .lang-btn")
+    .forEach((btn) => btn.classList.toggle("active", btn.dataset.lang === lang));
+
+  localStorage.setItem("chateau_kabab_downtown_lang", lang);
 }
 
 // Hero Slider functionality
@@ -428,7 +433,7 @@ function initBurgerMenu() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  const savedLang = localStorage.getItem("chateau_kabab_lang");
+  const savedLang = localStorage.getItem("chateau_kabab_downtown_lang");
   const initialLang = ["en", "fr", "ar"].includes(savedLang) ? savedLang : "en";
   setLanguage(initialLang);
 
